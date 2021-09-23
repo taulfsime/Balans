@@ -1,0 +1,10 @@
+D:\Projects\C#\Balans\Balans\bin\Debug\Balans.exe.config
+D:\Projects\C#\Balans\Balans\bin\Debug\Balans.exe
+D:\Projects\C#\Balans\Balans\bin\Debug\Balans.pdb
+D:\Projects\C#\Balans\Balans\obj\Debug\Balans.csproj.AssemblyReference.cache
+D:\Projects\C#\Balans\Balans\obj\Debug\Balans.Form1.resources
+D:\Projects\C#\Balans\Balans\obj\Debug\Balans.Properties.Resources.resources
+D:\Projects\C#\Balans\Balans\obj\Debug\Balans.csproj.GenerateResource.cache
+D:\Projects\C#\Balans\Balans\obj\Debug\Balans.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Balans\Balans\obj\Debug\Balans.exe
+D:\Projects\C#\Balans\Balans\obj\Debug\Balans.pdb
