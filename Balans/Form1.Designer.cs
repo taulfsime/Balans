@@ -565,7 +565,7 @@ namespace Balans
             0,
             0,
             0});
-            this.numericUpDown16.Location = new System.Drawing.Point(54, 52);
+            this.numericUpDown16.Location = new System.Drawing.Point(57, 52);
             this.numericUpDown16.Maximum = new decimal(new int[] {
             40000,
             0,
@@ -679,7 +679,7 @@ namespace Balans
             this.groupBox18.Size = new System.Drawing.Size(123, 48);
             this.groupBox18.TabIndex = 17;
             this.groupBox18.TabStop = false;
-            this.groupBox18.Text = "Сума";
+            this.groupBox18.Text = "Сума в ФС";
             // 
             // sum
             // 
